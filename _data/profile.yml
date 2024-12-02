@@ -34,11 +34,13 @@ portrait_caption: >-
 
 education:
 - name: Zhejiang University
+  logo: /assets/images/badges/ZJU.png
   position: >- 
     Department of Computer Science <br/>
     Ph.D. Student
   date: Sep. 2021 - present
 - name: Zhejiang University
+  logo: /assets/images/badges/ZJU.png
   position: B.S. in Electrical Engineering
   date: Sep. 2017 - Jul. 2021
 
