@@ -4,8 +4,8 @@ navbar_name: "Ruizhe Chen"
 
 positions:
 # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: PhD student
-# - name: Position 2 without logo
+#  name: PhD student
+- name: PhD student
 
 
 email: "ruizhec.21@intl.zju.edu.cn"
@@ -25,9 +25,7 @@ short_bio: >-
     A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    Ruizhe Chen's research primarily focuses on the fairness and personalization of large language models (LLMs). Throughout his work, he has explored various aspects of fairness in LLMs, including evaluation, explanation, and bias mitigation. Specifically, Chen has proposed a novel judging approach and dataset to assess the fairness of LLMs, and employed techniques like causal tracing to explain the mechanisms that influence their fairness. Additionally, he has worked on debiasing LLMs using approaches like machine unlearning. Another key area of his research is the personalized alignment of LLMs. In his recent work, Chen proposed a novel paradigm for personalization during the decoding stage, which integrates individual preferences into the value function to directly guide the LLMs' decoding process without requiring additional fine-tuning. This approach provides a more efficient and flexible way to align LLM outputs with user-specific preferences, enhancing the adaptability of LLMs to diverse user needs.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -35,16 +33,14 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: Zhejiang University
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    Department of Computer Science <br/>
     Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  date: Sep. 2021 - present
+- name: Zhejiang University
+  position: B.S. in Electrical Engineering
+  date: Sep. 2017 - Jul. 2021
 
 # experience:
 # - name: Peking University
@@ -52,10 +48,10 @@ education:
 #   position: Research Intern
 #   date: Sep. 2019 - Jul. 2021
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+# awards:
+# - name: Award Name 2
+#   date: 2024
+# - name: Award Name 1 
+#   date: 2021
+# - name: A quick brown fox jumps over the lazy dog and runs away award
+#   date: 2021
