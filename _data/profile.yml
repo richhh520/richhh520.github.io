@@ -22,7 +22,7 @@ gscholar: https://scholar.google.com/citations?user=Wr2K2sMAAAAJ&hl=zh-CN  # Thi
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Ruizhe Chen's research primarily focuses on the fairness and personalization of large language models (LLMs). Throughout his work, he has explored various aspects of fairness in LLMs, including evaluation, explanation, and bias mitigation. Specifically, Chen has proposed a novel judging approach and dataset to assess the fairness of LLMs, and employed techniques like causal tracing to explain the mechanisms that influence their fairness. Additionally, he has worked on debiasing LLMs using approaches like machine unlearning. Another key area of his research is the personalized alignment of LLMs. In his recent work, Chen proposed a novel paradigm for personalization during the decoding stage, which integrates individual preferences into the value function to directly guide the LLMs' decoding process without requiring additional fine-tuning. This approach provides a more efficient and flexible way to align LLM outputs with user-specific preferences, enhancing the adaptability of LLMs to diverse user needs.
+    Ruizhe Chen is currently a PhD student at Zhejiang University, advised by Prof. Zuozhu Liu. Previously, he was an undergradate student at Zhejiang University. He has internship at SUTD. His research primarily in fairness and personalization of LLMs. He has published related papers in top-tier conferences and journals such as NeurIPS, ACL, EMNLP, and AAAI.  
   </p>
 
 portrait_url: /assets/images/photos/photoruizhe.jpg
