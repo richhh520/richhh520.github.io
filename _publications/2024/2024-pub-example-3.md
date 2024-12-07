@@ -2,7 +2,7 @@
 title:          "Learnable Privacy Neurons Localization in Language Models"
 date:           2024-05-12 00:01:00 +0800
 selected:       true
-pub:            "ACL 2024 main"
+pub:            "The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024 main)"
 pub_date:       "2024"
 
 abstract: >-
