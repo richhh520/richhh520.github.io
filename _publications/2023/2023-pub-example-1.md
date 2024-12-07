@@ -1,17 +1,14 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
+title:          "Fast model debias with machine unlearning"
 date:           2023-01-05 00:01:00 +0800
 selected:       true
-pub:            "Nature Communications"
+pub:            "Advances in Neural Information Processing Systems"
 pub_date:       "2023"
 abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
+  DL Fairness, Large Language Models Fairness, Machine Unlearning via Influence Function
 cover:          /assets/images/covers/cover1.jpg
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+- Ruizhe Chen, Jianfei Yang, Zuozhu Liu
 links:
   Paper: https://www.cell.com
 ---
