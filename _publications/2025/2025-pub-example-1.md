@@ -7,7 +7,7 @@ pub_date:       "2025"
 
 abstract: >-
   Large Language Models Alignment.
-cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/pad.png
 authors:
   - Ruizhe Chen
   - Zuozhu Liu
