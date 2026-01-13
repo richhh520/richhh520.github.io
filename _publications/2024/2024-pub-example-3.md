@@ -7,7 +7,7 @@ pub_date:       "2024"
 
 abstract: >-
   Large Language Models Safety (Privacy).
-cover:          /assets/images/etc/cat1.jpg
+cover:          /assets/images/covers/lpn.png
 authors:
   - Ruizhe Chen
   - Tianxiang Hu
