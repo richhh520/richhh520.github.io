@@ -1,6 +1,6 @@
 ---
 title:          "Datasets and Recipes for Video Temporal Grounding via Reinforcement Learning"
-date:           2025-11-01 00:01:00 +0800
+date:           2025-6-01 00:01:00 +0800
 selected:       true
 pub:            "EMNLP"
 pub_date:       "2025"
