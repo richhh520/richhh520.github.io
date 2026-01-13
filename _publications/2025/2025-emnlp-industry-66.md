@@ -1,11 +1,11 @@
 ---
-title:          "EMNLP 2025 Industry Track Paper 66"
+title:          "Datasets and Recipes for Video Temporal Grounding via Reinforcement Learning"
 date:           2025-11-01 00:01:00 +0800
 selected:       true
-pub:            "EMNLP Industry Track"
+pub:            "EMNLP"
 pub_date:       "2025"
 abstract: >-
-  ACL Anthology paper (ID: 2025.emnlp-industry.66).
+  This paper introduces a two-stage SFT+RL framework that improves Video Temporal Grounding accuracy and robustness.
 authors: []
 links:
   Paper: https://aclanthology.org/2025.emnlp-industry.66.pdf
