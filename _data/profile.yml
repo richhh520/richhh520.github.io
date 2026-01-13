@@ -41,11 +41,12 @@ education:
   position: B.S. in Electrical Engineering
   date: Sep. 2017 - Jul. 2021
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: Qwen Team, Alibaba Group
+  logo: /assets/images/empty_300x200.png
+  position: Research Intern
+  dept: Contribute to Qwen3-VL with a focus on Video Understanding and Agentic RL.
+  date: 2025
 
 # awards:
 # - name: Award Name 2
