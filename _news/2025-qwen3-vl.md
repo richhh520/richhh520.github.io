@@ -1,5 +1,5 @@
 ---
-title: Qwen3-VL technical report released as a core contributor.
+title: Served as a core contributor to the Qwen3-VL, technical report released.
 date: 2025-11-01 00:01:00 +0800
 ---
 
