@@ -22,8 +22,7 @@ gscholar: https://scholar.google.com/citations?user=Wr2K2sMAAAAJ&hl=zh-CN  # Thi
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Ruizhe Chen is currently a PhD candidate at Zhejiang University, advised by Prof. Zuozhu Liu. Previously, he was an undergradate student at ZJUI, Zhejiang University. He has been a visiting scholar at SUTD, advised by Prof. Tony Q.S. Quek and an intern at Tiktok, Bytedance. His research primarily in the alignment of LLMs, especially their fairness and personalization. He has published related papers in top-tier conferences and journals such as NeurIPS, ICLR, ACL, EMNLP, NAACL and AAAI.  
-  </p>
+    Ruizhe Chen is currently a Ph.D. candidate in Computer Science at Zhejiang University, advised by Prof. Zuozhu Liu, and I expect to graduate in June 2026. My research centers on large-model post-training and multimodal video understanding. Previously, I contributed to Qwen3-VL with Alibaba’s Qwen team. I’ve published in top venues including NeurIPS, ICLR, ACL, EMNLP, and NAACL. I’m currently seeking positions focused on large multimodal models, especially video-LLMs.  </p>
 
 portrait_url: /assets/images/photos/photoruizhe.jpg
 # portrait_caption: >-
