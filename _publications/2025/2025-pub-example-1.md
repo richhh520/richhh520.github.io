@@ -7,7 +7,7 @@ pub_date:       "2025"
 
 abstract: >-
   Large Language Models Alignment.
-cover:          /assets/images/etc/tim_the_beaver.png
+cover:          /assets/images/covers/pad.png
 authors:
   - Ruizhe Chen
   - Zuozhu Liu
