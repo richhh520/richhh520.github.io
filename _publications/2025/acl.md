@@ -6,6 +6,7 @@ pub:            "ACL"
 pub_date:       "2025"
 abstract: >-
   Diffusion-styled Preference Optimization (DPO) is a plug-and-play, policy-agnostic inference-time alignment method that aligns LLMs at the sentence level to reduce latency while improving alignment quality across benchmarks and model scales.
+cover:          /assets/images/covers/diffpo.png
 authors: []
 links:
   Paper: https://arxiv.org/pdf/2503.04240?
