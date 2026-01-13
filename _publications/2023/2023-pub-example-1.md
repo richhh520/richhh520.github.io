@@ -6,9 +6,11 @@ pub:            "Advances in Neural Information Processing Systems"
 pub_date:       "2023"
 abstract: >-
   DL Fairness, Large Language Models Fairness, Machine Unlearning via Influence Function
-cover:          /assets/images/covers/cover1.jpg
+cover:          /assets/images/etc/preview.png
 authors:
 - Ruizhe Chen, Jianfei Yang, Zuozhu Liu
 links:
   Paper: https://www.cell.com
 ---
+
+![Screenshot of the method overview](/assets/images/etc/preview.png)
