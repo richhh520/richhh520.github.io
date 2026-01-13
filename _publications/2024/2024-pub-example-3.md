@@ -7,9 +7,11 @@ pub_date:       "2024"
 
 abstract: >-
   Large Language Models Safety (Privacy).
-cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/etc/cat1.jpg
 authors:
   - Ruizhe Chen
   - Tianxiang Hu
   - Zuozhu Liu
 ---
+
+![Screenshot of privacy neuron localization results](/assets/images/etc/cat1.jpg)
